@@ -1,3 +1,4 @@
+# Hi there
 <div align="center">
 <h1> Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course <br>| Foundry Edition 2023  |</h1>
 
